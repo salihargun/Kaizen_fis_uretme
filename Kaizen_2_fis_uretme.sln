@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaizen_2_fis_uretme", "Kaizen_2_fis_uretme\Kaizen_2_fis_uretme.csproj", "{8B7B4FB0-8A9E-4E92-9C71-8338F17D9AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7B4FB0-8A9E-4E92-9C71-8338F17D9AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7B4FB0-8A9E-4E92-9C71-8338F17D9AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7B4FB0-8A9E-4E92-9C71-8338F17D9AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7B4FB0-8A9E-4E92-9C71-8338F17D9AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997D7970-51EF-48A6-8D4F-00F198DE465B}
+	EndGlobalSection
+EndGlobal
